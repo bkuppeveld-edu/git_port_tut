@@ -47,6 +47,11 @@
 
 /* CUSTOM RESETS
 ================================================== */
+
+h1, h2, h3 {
+color: red;
+}
+
 a {
     transition: color 0.25s ease-in-out;
     -moz-transition: color 0.25s ease-in-out;
